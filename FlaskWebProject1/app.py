@@ -1,5 +1,3 @@
-# pip3 install flask
-# which pip3 -  caminho da instalacao do pip3
 from flask import Flask
 from calculadora import *
 
